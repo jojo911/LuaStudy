@@ -1,0 +1,9 @@
+$#include "ClassTest.h"
+
+class CClassTest
+{
+public:
+	CClassTest(void);
+	~CClassTest(void);
+	int sum(int a, int b);
+};
